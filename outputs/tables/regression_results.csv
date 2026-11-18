@@ -1,0 +1,7 @@
+Model,MAE (cases),RMSE (cases),R2 (log scale)
+Random Forest,6886.1,16509.4,0.6822
+Gradient Boosting,7627.2,18233.2,0.5915
+Linear Regression,55559.0,278893.4,-0.0699
+Decision Tree,7142.8,16864.4,-0.1802
+K-Nearest Neighbours,8389.2,19418.5,-0.5263
+Support Vector Regression,8302.0,19539.5,-0.7911

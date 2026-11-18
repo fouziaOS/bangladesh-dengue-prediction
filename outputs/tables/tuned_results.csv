@@ -1,0 +1,2 @@
+Model,MAE (cases),RMSE (cases),R2 (log scale)
+Random Forest (tuned),6875.4,16537.8,0.7014

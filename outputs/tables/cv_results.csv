@@ -1,0 +1,3 @@
+Model,CV R2 mean,CV R2 std
+Random Forest,0.2576,0.4304
+Gradient Boosting,0.29,0.2016
