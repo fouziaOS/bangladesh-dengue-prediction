@@ -1,0 +1,20 @@
+{
+ "train_months": 216,
+ "test_months": 60,
+ "outbreak_months_total": 23,
+ "top_shap_feature": "cases_lag1",
+ "total_cases": 660976,
+ "cases_2023": 321179,
+ "best_regressor": "Random Forest",
+ "best_r2": 0.6822,
+ "tuned_rf": {
+  "MAE (cases)": 6875.4,
+  "RMSE (cases)": 16537.8,
+  "R2 (log scale)": 0.7014
+ },
+ "best_params": {
+  "max_depth": null,
+  "min_samples_leaf": 2,
+  "n_estimators": 300
+ }
+}
